@@ -1,6 +1,7 @@
 {
     "DragonBall": [
         {
+            "id": 1,
             "Número": "#1",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/7/76/DB_Pel%C3%ADcula_1_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032317&path-prefix=es",
             "Título": "La leyenda de Shen Long (神シェン龍ロンの伝でん説せつ, Shenron no Densetsu)",
@@ -9,6 +10,7 @@
             "Estreno": "20 de diciembre de 1986"
         },
         {
+            "id": 2,
             "Número": "#2",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/1/14/DB_Pel%C3%ADcula_2_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032318&path-prefix=es",
             "Título": "La princesa durmiente en el castillo del espíritu maligno (魔まじ神んじ城ょうのねむり姫ひめ, Majin-jō no Nemuri Hime)",
@@ -17,6 +19,7 @@
             "Estreno": "18 de julio de 1987"
         },
         {
+            "id": 3,
             "Número": "#3",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/a/ab/DB_Pel%C3%ADcula_3_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032319&path-prefix=es",
             "Título": "Una gran aventura mística (摩ま訶か不ふ思し議ぎ大だい冒ぼう険けん, Makafushigi Daibōken)",
@@ -25,6 +28,7 @@
             "Estreno": "9 de junio de 1988"
         },
         {
+            "id": 4,
             "Número": "#17",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/3/3a/DB_Pel%C3%ADcula_4_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032319&path-prefix=es",
             "Título": "El camino hacia el más fuerte (最さい強きょうへの道みち, Saikyō e no Michi)",
@@ -35,6 +39,7 @@
     ],
     "DragonBallZ": [
         {
+            "id": 5,
             "Número": "#4",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/5/52/DBZ_Pel%C3%ADcula_1_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032320&path-prefix=es",
             "Título": "Dragon Ball Z (ドラゴンボールZゼット, Doragon Bōru Zetto)",
@@ -43,6 +48,7 @@
             "Estreno": "15 de julio de 1989"
         },
         {
+            "id": 6,
             "Número": "#5",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/d/d0/DBZ_Pel%C3%ADcula_2_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032321&path-prefix=es",
             "Título": "El sujeto más fuerte de este mundo (この世よで一い番ばん強つよいヤツ, Kono yo de ichiban tsuyoi yatsu)",
@@ -51,6 +57,7 @@
             "Estreno": "10 de marzo de 1990"
         },
         {
+            "id": 7,
             "Número": "#6",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/2/20/DBZ_Pel%C3%ADcula_3_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032321&path-prefix=es",
             "Título": "Una superbatalla decisiva para el planeta Tierra (地ちき球ゅうまるごと超ちょ決うけ戦っせん, Chikyū marugoto chōkessen)",
@@ -59,6 +66,7 @@
             "Estreno": "7 de julio de 1990"
         },
         {
+            "id": 8,
             "Número": "#7",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/6/66/DBZ_Pel%C3%ADcula_4_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032322&path-prefix=es",
             "Título": "Son Goku, el Supersaiyano (超スーパーサイヤ人じんだ孫そん悟ご空くう, Sūpā Saiya-jin da Son Gokū)",
@@ -67,6 +75,7 @@
             "Estreno": "9 de marzo de 1991"
         },
         {
+            "id": 9,
             "Número": "#8",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/7/7a/DBZ_Pel%C3%ADcula_5_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032322&path-prefix=es",
             "Título": "Los increíblemente más poderosos contra el más poderoso (とびっきりの最さい強きょう対たい最さい強きょう, Tobikkiri no Saikyō Tai Saikyō)",
@@ -75,6 +84,7 @@
             "Estreno": "20 de julio de 1991"
         },
         {
+            "id": 10,
             "Número": "#9",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/8/80/DBZ_Pel%C3%ADcula_6_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032323&path-prefix=es",
             "Título": "¡Choque! Los guerreros con un poder de diez mil millones (激げき突とつ!!100ひゃく億おくパワーの戦せん士したち, Gekitotsu!! Hyaku oku pawā no senshi-tachi)",
@@ -83,6 +93,7 @@
             "Estreno": "7 de marzo de 1992"
         },
         {
+            "id": 11,
             "Número": "#10",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/0/03/DBZ_Pel%C3%ADcula_7_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032323&path-prefix=es",
             "Título": "¡Una batalla extrema! Los tres grandes Supersaiyanos (極きょく限げんバトル！！三さん大だい超スーパーサイヤ人じん, Kyokugen Batoru!! San Dai Supā Saiya-jin)",
@@ -91,6 +102,7 @@
             "Estreno": "11 de julio de 1992"
         },
         {
+            "id": 12,
             "Número": "#11",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/5/5d/DBZ_Pel%C3%ADcula_8_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032324&path-prefix=es",
             "Título": "¡Arde! Una superbatalla feroz, extrema y ardiente (燃もえつきろ!!熱ね戦っせん・烈れ戦っせん・超ちょ激げき戦せん, Moetsukiro!! Nessen - Ressen - Chō-Gekisen)",
@@ -99,6 +111,7 @@
             "Estreno": "6 de marzo de 1993"
         },
         {
+            "id": 13,
             "Número": "#12",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/8/89/DBZ_Pel%C3%ADcula_9_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032325&path-prefix=es",
             "Título": "¡La galaxia corre peligro! Un sujeto demasiado asombroso (銀ぎん河がギリギリ!!ぶっちぎりの凄すごい奴やつ, Ginga Giri-Giri!! Butchigiri no Sugoi Yatsu)",
@@ -107,6 +120,7 @@
             "Estreno": "7 de octubre de 1993"
         },
         {
+            "id": 14,
             "Número": "#13",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/9/9b/DBZ_Pel%C3%ADcula_10_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032325&path-prefix=es",
             "Título": "¡Un dúo peligroso! Los superguerreros nunca duermen (危き険けんなふたり!超スーパー戦せん士しはねむれない, Kiken na Futari! Sūpā Senshi wa Nemurenai)",
@@ -115,6 +129,7 @@
             "Estreno": "12 de marzo de 1994"
         },
         {
+            "id": 15,
             "Número": "#14",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/a/ad/DBZ_Pel%C3%ADcula_11_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032326&path-prefix=es",
             "Título": "¡Los superguerreros vencen! La victoria será mía (超スーパー戦せん士し撃げき破は!!勝かつのはオレだ, Sūpā-Senshi Gekiha!! Katsu No wa Ore da)",
@@ -123,6 +138,7 @@
             "Estreno": "9 de julio de 1994"
         },
         {
+            "id": 16,
             "Número": "#15",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/f/f2/DBZ_Pel%C3%ADcula_12_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032326&path-prefix=es",
             "Título": "¡El renacer de la fusión! Goku y Vegeta (復ふっ活かつのフュージョン!!悟ご空くうとベジータ, Fukkatsu no Fyūjon!! Gokū to Bejīta)",
@@ -131,6 +147,7 @@
             "Estreno": "4 de marzo de 1995"
         },
         {
+            "id": 17,
             "Número": "#16",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/0/0c/DBZ_Pel%C3%ADcula_13_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032327&path-prefix=es",
             "Título": "¡La explosión del Puño del Dragón! Si Goku no puede hacerlo, ¿quién lo hará? (龍りゅう拳けん爆ばく発はつ!!悟ご空くうがやらねば誰だれがやる, Ryūken Bakuhatsu!! Gokū ga yaraneba dare ga yaru)",
@@ -139,6 +156,7 @@
             "Estreno": "15 de julio de 1995"
         },
         {
+            "id": 18,
             "Número": "#18",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/3/31/DBZ_Pel%C3%ADcula_14_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032328&path-prefix=es",
             "Título": "La batalla de los dioses (神かみと神かみ, Kami to Kami)",
@@ -147,6 +165,7 @@
             "Estreno": "30 de marzo de 2013"
         },
         {
+            "id": 19,
             "Número": "#19",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/2/2c/DBZ_Pel%C3%ADcula_15_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032328&path-prefix=es",
             "Título": "La resurrección de «F» (復ふっ活かつの「Fエフ」, Fukkatsu no 'Efu')",
@@ -157,6 +176,7 @@
     ],
     "DragonBallSuper": [
         {
+            "id": 20,
             "Número": "#20",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/f/fb/Dragon_Ball_Super_Broly_poster.png/revision/latest/scale-to-width-down/100?cb=20180709221734&path-prefix=es",
             "Título": "Broly (ブロリー, Burorī)",
@@ -165,6 +185,7 @@
             "Estreno": "14 de diciembre de 2018"
         },
         {
+            "id": 21,
             "Número": "#21",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/c/cb/Cartel_de_Dragon_Ball_Super_Super_Hero_en_Jap%C3%B3n.png/revision/latest/scale-to-width-down/100?cb=20220302094440&path-prefix=es",
             "Título": "Superhéroe (スーパーヒーロー, Sūpā Hīrō)",
@@ -175,6 +196,7 @@
     ],
     "AcciónEnVivo": [
         {
+            "id": 22,
             "Número": "#1",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/6/6b/Dragon_Ball_Evolucion.jpg/revision/latest/scale-to-width-down/100?cb=20090720175058&path-prefix=es",
             "Título": "Dragonball Evolución",
@@ -185,6 +207,7 @@
     ],
     "PelículasPromocionales": [
         {
+            "id": 23,
             "Número": "#1",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/b/bf/Cartel_del_Arco_del_Invasor_Demon%C3%ADaco.png/revision/latest/scale-to-width-down/100?cb=20231012132011&path-prefix=es",
             "Título": "Super Dragon Ball Heroes: Misión del Meteoro (スーパードラゴンボールヒーローズメテオミッション, Sūpā Doragon Bōru Hīrōzu Meteo Misshon)",
@@ -194,6 +217,7 @@
     ],
     "EspecialesDeTelevisión": [
         {
+            "id": 24,
             "Número": "#1",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/7/7e/Daiz6-pag162.jpg/revision/latest/scale-to-width-down/100?cb=20111002222826&path-prefix=es",
             "Título": "Una solitaria batalla final —Quien desafió a Freeza, el padre del Guerrero Z Kakarotto— (たったひとりの最さい終しゅう決けっ戦せん～フリーザに挑いどんだZゼット戦せん士し 孫悟空カカロットの父ちち～, Tatta Hitori no Saishū Kessen ~Furīza ni Idonda Zetto Senshi Kakarotto no Chichi~)",
@@ -202,12 +226,14 @@
             "Estreno": "17 de octubre de 1990"
         },
         {
+            "id": 25,
             "Número": "#2",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/0/03/DBZ_Pel%C3%ADcula_7_p%C3%B3ster.png/revision/latest/scale-to-width-down/100?cb=20180805032323&path-prefix=es",
             "Título": "¡Una batalla extrema! Los tres grandes Supersaiyanos, el especial (極限バトル！！三大超サイヤ人　スペシャル, Kyokugen Batoru!! San Dai Sūpā Saiya-jin Supesharu)",
             "Estreno": "3 de agosto de 1992"
         },
         {
+            "id": 26,
             "Número": "#3",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/1/10/Daiz6-pag170.jpg/revision/latest/scale-to-width-down/100?cb=20111002053304&path-prefix=es",
             "Título": "¡El desafío a la desesperación! Los superguerreros restantes: Gohan y Trunks (絶ぜつ望ぼうへの反はん抗こう!!残こされた超ちょう戦せん士し・悟ご飯はんとトランクス, Zetsubō e no Hankō!! Nokosareta Chōsenshi · Gohan to Torankusu)",
@@ -216,24 +242,28 @@
             "Estreno": "24 de febrero del 1993"
         },
         {
+            "id": 27,
             "Número": "#4",
             "Cartel": "—",
             "Título": "Te mostraremos todo: Olvida los problemas del año con Dragon Ball Z (全ぜん部見ぶ みせます 年とし忘わすれ ドラゴンボールZゼット, Zenbu Misemasu Toshi Wasure Doragon Bōru Zetto)",
             "Estreno": "31 de diciembre del 1993"
         },
         {
+            "id": 28,
             "Número": "#5",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/5/56/DBGT_especial_de_TV_portada.png/revision/latest/scale-to-width-down/100?cb=20180504211152&path-prefix=es",
             "Título": "¡Una historia alternativa de Goku! La prueba de coraje es la esfera de cuatro estrellas (悟ご空くう外がい伝でん 〜勇ゆう気きが試ためられる四しがん星せい〜, Gokū Gaiden ~Yūki ga Tamerareru Shi-gan Sei~)",
             "Estreno": "26 de marzo de 1997"
         },
         {
+            "id": 29,
             "Número": "#6",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/9/9b/Especial_de_1_hora_DBS.png/revision/latest/scale-to-width-down/100?cb=20171209014416&path-prefix=es",
             "Título": "¡Esta es la batalla definitiva de todos los universos! ¡Son Goku contra Jiren! (これぞ全宇宙一の究極バトル！孫悟空VSジレン！！, Korezo zen uchū ichi no kyūkyoku batoru! Son Gokū bāsasu Jiren!!)",
             "Estreno": "8 de octubre de 2017"
         },
         {
+            "id": 30,
             "Número": "#7",
             "Cartel": "https://static.wikia.nocookie.net/dragonball/images/7/7b/Saga_de_Supervivencia_Universal_2.jpg/revision/latest/scale-to-width-down/100?cb=20170622224346&path-prefix=es",
             "Título": "¡Celebración del estreno de la película! ¡Especial de «Dragon Ball Super» justo antes del estreno! (映画公開記念！「ドラゴンボール超」公開直前スペシャル ！ ！, Eiga Kōkai Kinen! 'Doragon Bōru Sūpā' Kōkai Chokuzen Supesharu!!)",
